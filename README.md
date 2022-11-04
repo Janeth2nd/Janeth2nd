@@ -1,16 +1,9 @@
 ### Hi there, I am Janeth! 👩‍💻🕵️‍♀️🎮🏳️‍🌈🐾
-![image2](https://user-images.githubusercontent.com/101832576/200040262-ceaada1a-1be8-4ff9-9d26-6c3db28e2f79.png)
-<!--
-**Janeth2nd/Janeth2nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg)](https://ejemplo.com)
-Here are some ideas to get you started:
 
-🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Janeth2nd/Janeth2nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🔭 I’m currently working on md-links
+- 🌱 I’m currently learning node.js
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/janeth-a-l%C3%B3pez-segundo-3a0219250/)
+
+
