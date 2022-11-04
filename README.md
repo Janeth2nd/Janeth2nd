@@ -2,7 +2,7 @@
 
 <!--
 **Janeth2nd/Janeth2nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg)](https://ejemplo.com)
 Here are some ideas to get you started:
 
 #🔭 I’m currently working on ...
