@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Janeth! 👩‍💻🕵️‍♀️🎮🏳️‍🌈🐾
 
 <!--
 **Janeth2nd/Janeth2nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
