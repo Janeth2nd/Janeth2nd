@@ -1,6 +1,6 @@
 
 
-![202748071-1daf0c46-5cf4-4721-92d2-c3841bb2e73d](https://user-images.githubusercontent.com/101832576/202752057-c9d36fae-b0af-4ca0-98a4-10aba9b78001.png)
+![44](https://user-images.githubusercontent.com/101832576/210864345-d3f7e106-e1a9-4a9c-8301-c6e5c189ffbc.png)
 
 
 ### Hi there, I am Janeth! 👩‍💻🕵️‍♀️🎮🏳️‍🌈🐾
