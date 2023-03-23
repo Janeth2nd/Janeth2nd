@@ -5,8 +5,8 @@
 
 ### Hi there, I am Janeth! 
 
-- 🔭 I’m working on different projects with: Javascript ES9, HTML, CSS3, NodeJS &  Responsive Web Design.
-- 🌱 I’m currently reviewing topics like: JS, Node.js, CSS-Flex-box/Grid, React, Responsive Web Design, etc.
+- 🔭 I’m working on different projects with: Javascript, HTML, CSS, Bootstrap & Responsive Web Design.
+- 🌱 I’m currently reviewing topics like: JS, React and Bootstrap.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/janeth-a-l%C3%B3pez-segundo-3a0219250/)
 
 ### Technical Skills
@@ -18,6 +18,7 @@
 • Node.js
 • Firebase
 • React
+• Bootstrap
 • Figma
 • Trello
 
